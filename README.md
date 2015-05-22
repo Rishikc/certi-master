@@ -1,2 +1,5 @@
-# certificate-
-# eg code for writing over an image
+certi
+=====
+
+Auutomate creation of certificate images
+:thumbsup:
