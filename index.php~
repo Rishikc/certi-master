@@ -1,5 +1,4 @@
 <?php
-//can be used for rc :)
 // Set the content-type
 header('Content-Type: image/png');
 $path=dirname(__FILE__);
