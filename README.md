@@ -2,5 +2,5 @@ certi
 =====
 
 Auutomate creation of certificate images
-can be used for image writing :)
+can be used for image writing :) :p
 :thumbsup:
